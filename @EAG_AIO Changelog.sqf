@@ -1,6 +1,6 @@
 
 @Eagle_AIO
-Author:			S. Eagle
+Author:			C. Eagle
 Steam ID64:		76561198141023662
 
 //Changelog
