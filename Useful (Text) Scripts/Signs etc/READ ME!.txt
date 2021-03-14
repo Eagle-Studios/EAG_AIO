@@ -2,3 +2,5 @@
 Use 'SetTexture Global (jpg)' for any signs and images, that you want in HIGH QUALITY
 
 Use 'Texture #0 (paa)' for screens, phones, tablets etc; aka LOW QUALITY
+
+Note that jpgs can be used on large screens, define the image as a jpg rather than paa in the Texture #0
