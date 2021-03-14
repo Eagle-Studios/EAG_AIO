@@ -1,0 +1,1 @@
+this setObjectTextureGlobal [0,"Images\IMAGENAME.jpg"];

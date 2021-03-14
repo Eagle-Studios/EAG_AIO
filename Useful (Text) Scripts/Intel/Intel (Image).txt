@@ -1,0 +1,1 @@
+this setvariable ["RscAttributeDiaryRecord_texture","IMAGE_NAME.jpg"];

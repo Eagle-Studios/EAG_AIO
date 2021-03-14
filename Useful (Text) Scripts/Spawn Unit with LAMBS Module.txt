@@ -1,0 +1,3 @@
+_grp1 = [getMarkerPos "testSpawn2", east, ["O_Soldier_SL_F", "O_Soldier_F","O_Soldier_F","O_Soldier_F","O_Soldier_F","O_Soldier_AR_F"],0] call BIS_fnc_spawnGroup;  
+ 
+[_grp1, 1000, nil, nil, getmarkerPos "testRush"] spawn lambs_wp_fnc_taskRush;

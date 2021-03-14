@@ -1,0 +1,1 @@
+data = [this,"RscAttributeDiaryRecord",["IntelPickupText","TextGoesHere <marker name='VariableName'>TextToClickToSeeLocation</marker>",""]] call bis_fnc_setServerVariable; 

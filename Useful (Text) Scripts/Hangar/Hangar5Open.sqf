@@ -1,0 +1,1 @@
+Gate5 animate ["Door_2_Move", 1]; Gate5 animate ["Door_3_Move", 1];

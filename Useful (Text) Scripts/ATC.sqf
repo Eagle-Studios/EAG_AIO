@@ -1,0 +1,1 @@
+player globalChat "ATC is on LR Channel 7 : ATC NET";

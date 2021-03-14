@@ -1,0 +1,1 @@
+[object1, object2] call BIS_fnc_attachToRelative;

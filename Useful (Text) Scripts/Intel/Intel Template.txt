@@ -1,0 +1,1 @@
+data = [this,"RscAttributeDiaryRecord",["Title goes here","Text goes here",""]] call bis_fnc_setServerVariable;

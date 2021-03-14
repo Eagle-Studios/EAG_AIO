@@ -1,0 +1,1 @@
+_veh = "UK3CB_B_M1030_NATO" createVehicle getMarkerPos "veh_req_marker";

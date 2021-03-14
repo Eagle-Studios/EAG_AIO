@@ -1,0 +1,1 @@
+_veh = "UK3CB_BAF_Husky_Logistics_HMG_Sand" createVehicle getMarkerPos "veh_req_marker";

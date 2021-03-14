@@ -1,0 +1,4 @@
+_grp1 = [getMarkerPos "testSpawn", east, ["O_Soldier_SL_F", "O_Soldier_F","O_Soldier_F","O_Soldier_F","O_Soldier_F","O_Soldier_AR_F"],0] call BIS_fnc_spawnGroup; 
+ 
+_wpt1 = _grp1 addWaypoint [getMarkerPos "testMove",5]; 
+_wpt1 setWaypointType "MOVE";

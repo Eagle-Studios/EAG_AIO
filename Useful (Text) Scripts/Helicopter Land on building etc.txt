@@ -1,0 +1,6 @@
+
+Place a trigger in the middle of building / landing area, smallest size (0) and name it "trg_landing"
+
+place invisible helipad and name it "landingpad"
+
+in Init of "landingpad" write - this setPosASL (position trg_landing);

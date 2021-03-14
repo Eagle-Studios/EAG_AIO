@@ -1,0 +1,197 @@
+Clothing
+
+
+Fatigues (Raven) (reskin of Fatigues (Urban))
+this setObjectTextureGlobal [0, "\a3\characters_f\OPFOR\Data\clothing_rus_co.paa"]; 
+
+Combat Fatigues (Sage) (reskin of Combat Fatigues (MTP))
+this setObjectTextureGlobal [0, "\a3\characters_f\BLUFOR\Data\clothing_sage_co.paa"];
+
+Combat Fatigues (Woodland) (reskin of Combat Fatigues (MTP))
+this setObjectTextureGlobal [0, "\a3\characters_f\BLUFOR\Data\clothing_wdl_co.paa"];
+
+Combat Fatigues (MTP, Dirty) (thanks to SgtDornan)
+this setObjectTextureGlobal [0, "\a3\characters_f_epb\BLUFOR\Data\clothing1_dirty_co.paa"]; 
+
+Wetsuit (Raven)
+this setObjectTextureGlobal [0,"A3\characters_f\common\data\diver_suit_co.paa"];
+
+Guerrilla Garment (Skull Shirt)
+this setObjectTextureGlobal [0, "\a3\characters_f_gamma\Civil\Data\c_cloth1_black.paa"];
+
+Guerrilla Garment (Grey Camo Shirt) (thanks to Nightmare515)
+this setObjectTextureGlobal [0, "A3\Characters_F\Civil\Data\c_cloth1_kabeiroi_co.paa"]; 
+
+Guerrilla Garment (Red Camo Shirt)
+this setObjectTextureGlobal [0, "A3\Characters_F\Civil\Data\c_cloth1_bandit_co.paa"]; 
+
+Guerrilla Garment (Orange Shirt)
+this setObjectTextureGlobal [0, "A3\Characters_F\Civil\Data\c_cloth1_v3_co.paa"]; 
+
+Guerrilla Garment (Yellow Shirt)
+this setObjectTextureGlobal [0, "A3\Characters_F\Civil\Data\c_cloth1_v2_co.paa"]; 
+
+Guerrilla Garment (Blue Shirt)
+this setObjectTextureGlobal [0, "A3\Characters_F\Civil\Data\c_cloth1_co.paa"]; 
+
+Guerrilla Garment (Brown Shirt)
+this setObjectTextureGlobal [0, "\a3\characters_f_gamma\Civil\Data\c_cloth1_brown.paa"]; 
+
+Guerrilla Garment ('Arnold is Numero Uno' Shirt)
+this setObjectTextureGlobal [0, "A3\Characters_F\Civil\Data\poor_co.paa"]; 
+
+Guerrilla Garment (Poor Shirt)
+this setObjectTextureGlobal [0, "A3\Characters_F\Civil\Data\poor_v2_co.paa"]; 
+
+Guerrilla Garment (Poor Shirt v2)
+this setObjectTextureGlobal [0, "A3\Characters_F\Civil\Data\poor_v3_co.paa"]; 
+
+Guerrilla Outfit (Checkered) (incomplete)
+this setObjectTextureGlobal [0, "A3\Characters_F\Civil\Data\c_cloth3_co.paa"]; 
+
+Guerrilla Outfit (Checkered v2) (incomplete)
+this setObjectTextureGlobal [0, "A3\Characters_F\Civil\Data\c_cloth3_v2_co.paa"]; 
+
+Guerrilla Outfit (Green) (incomplete)
+this setObjectTextureGlobal [0, "A3\Characters_F\Civil\Data\c_cloth3_v3_co.paa"]; 
+
+Guerrilla Outfit (Orange) (incomplete)
+this setobjectTextureGlobal [0, "A3\Characters_F\Civil\Data\c_cloth3_kabeiroi_co.paa"];  
+
+Guerrilla Outfit (Red) (incomplete)
+this setobjectTextureGlobal [0, "A3\Characters_F\Civil\Data\c_cloth3_bandit_co.paa"]; 
+
+Guerrilla Smocks (Yellow) (thanks to Debrin052)
+this setObjectTextureGlobal [0, "A3\Characters_F\Civil\Data\hunter_bushman_co.paa"]; 
+
+Syndikat Reskin of Combat Fatigues (AAF)
+this setObjectTextureGlobal [0, "\A3\Characters_F_Exp\Syndikat\Data\U_I_C_Soldier_Para_1_F_2_co.paa"]; 
+
+Brown Reskin of Combat Fatigues (AAF) (thanks to M. Glade)
+this setObjectTextureGlobal [0, "A3\characters_f_exp\Syndikat\Data\U_I_C_Soldier_Para_4_F_2_co.paa"]; 
+
+Worker Coveralls (Bandit)
+this setObjectTextureGlobal [0, "\A3\characters_f\common\data\coveralls_bandit_co.paa"]; 
+
+Worker Coveralls (Grey)
+this setObjectTextureGlobal [0, "\A3\characters_f\common\data\coveralls_grey_co.paa"]; 
+
+Worker Coveralls (Black)
+this setObjectTextureGlobal [0, "\A3\characters_f\common\data\coveralls_black_co.paa"]; 
+
+Worker Coveralls (Urban Camo)
+this setObjectTextureGlobal [0, "\A3\characters_f\common\data\coveralls_urbancamo_co.paa"]; 
+
+Scientist Clothes (CSAT)
+this setObjectTextureGlobal [0, "\A3\characters_f\common\data\coveralls_scientist_co.paa"]; 
+
+Casual Clothes (Brown and Grey) (reskin of Marshal Clothes) (thanks to Igor Nikolaev)
+this setObjectTextureGlobal [0, "A3\Characters_F\Civil\Data\ig_poloshirt_1_co.paa"];  
+
+Casual Clothes (Brown and Tan) (reskin of Marshal Clothes)
+this setObjectTextureGlobal [0, "A3\Characters_F\Civil\Data\ig_poloshirt_2_co.paa"];  
+
+VR Suit (No Lights) (thanks to DreadPirate)
+this setObjectTextureGlobal [0, "\A3\Characters_F\Common\Data\basicbody_black_co.paa"]; 
+
+Kitbag (AAF)
+(backpackContainer this) setObjectTextureGlobal [0,"A3\weapons_f\ammoboxes\bags\data\backpack_fast_digi_co.paa"];  
+
+Kitbag (Black)
+(backpackContainer this) setObjectTextureGlobal [0,"A3\weapons_f\ammoboxes\bags\data\backpack_fast_blk_co.paa"];  
+
+Carryall Backpack (Black)
+(backpackContainer this) setObjectTextureGlobal [0,"A3\weapons_f\ammoboxes\bags\data\backpack_tortila_blk_co.paa"];  
+
+
+Vehicles
+
+
+NATO Strider (now in Virtual Garage)
+this setObjectTextureGlobal [0,'\A3\soft_f_beta\mrap_03\data\mrap_03_ext_co.paa']; 
+this setObjectTextureGlobal [1,'\A3\data_f\vehicles\turret_co.paa']; 
+
+NATO Gorgon
+this setObjectTextureGlobal [0, "A3\Armor_F_Gamma\APC_Wheeled_03\Data\apc_wheeled_03_ext_co.paa"]; 
+this setObjectTextureGlobal [1, "A3\Armor_F_Gamma\APC_Wheeled_03\Data\apc_wheeled_03_ext2_co.paa"]; 
+this setObjectTextureGlobal [2, "A3\Armor_F_Gamma\APC_Wheeled_03\Data\rcws30_co.paa"]; 
+this setObjectTextureGlobal [3, "A3\Armor_F_Gamma\APC_Wheeled_03\Data\apc_wheeled_03_ext_alpha_co.paa"]; 
+
+NATO Black Pawnee/Hummingbird
+this setObjectTextureGlobal [0, "\a3\air_f\Heli_Light_01\Data\heli_light_01_ext_ion_co.paa"]; 
+
+NATO Green Blackfoot
+this setObjectTextureGlobal [0, "A3\Air_F\Heli_Light_02\Data\heli_light_02_common_co.paa"]; 
+
+AAF Panther (incomplete)
+this setObjectTextureGlobal [0,'A3\armor_f_beta\apc_tracked_01\data\apc_tracked_01_body_indp_co.paa']; 
+this setObjectTextureGlobal [2,'A3\data_f\vehicles\turret_indp_co.paa']; 
+
+AAF Pawnee/Hummingbird
+this setObjectTextureGlobal [0, "A3\Air_F\Heli_Light_01\Data\heli_light_01_ext_indp_co.paa"]; 
+
+AAF Orca
+this setObjectTextureGlobal [0, "\a3\air_f\Heli_Light_02\Data\heli_light_02_ext_indp_co.paa"]; 
+
+CSAT Panther (incomplete)
+this setObjectTextureGlobal [0,'A3\armor_f_beta\apc_tracked_01\data\apc_tracked_01_aa_body_opfor_co.paa']; 
+this setObjectTextureGlobal [2,'A3\data_f\vehicles\turret_opfor_co.paa']; 
+
+CSAT Cheetah (thanks to Zygzak191) (incomplete)
+this setObjectTextureGlobal [0,'A3\armor_f_beta\apc_tracked_01\data\apc_tracked_01_aa_body_opfor_co.paa']; 
+this setObjectTextureGlobal [2,'A3\armor_f_beta\apc_tracked_01\data\apc_tracked_01_aa_tower_opfor_co.paa']; 
+
+CSAT Bobcat (incomplete)
+this setObjectTextureGlobal [0,'A3\armor_f_beta\apc_tracked_01\data\apc_tracked_01_aa_body_opfor_co.paa']; 
+this setObjectTextureGlobal [2,'A3\data_f\vehicles\turret_opfor_co.paa']; 
+this setObjectTextureGlobal [3,'A3\armor_f_beta\apc_tracked_01\data\apc_tracked_01_crv_opfor_co.paa']; 
+
+CSAT Buzzard (now in Virtual Garage) (thanks to seacaptainjim)
+this setObjectTextureGlobal [0,"a3\Air_F_Gamma\Plane_Fighter_03\Data\Plane_Fighter_03_body_1_brownhex_CO.paa"]; 
+this setObjectTextureGlobal [1,"a3\Air_F_Gamma\Plane_Fighter_03\Data\Plane_Fighter_03_body_2_brownhex_CO.paa"]; 
+
+CSAT Buzzard Grey (now in Virtual Garage)
+this setObjectTextureGlobal [0,"a3\Air_F_Gamma\Plane_Fighter_03\Data\Plane_Fighter_03_body_1_greyhex_CO.paa"];   
+this setObjectTextureGlobal [1,"a3\Air_F_Gamma\Plane_Fighter_03\Data\Plane_Fighter_03_body_2_greyhex_CO.paa"];
+
+Civilian Orca (now in Virtual Garage)
+this setObjectTextureGlobal [0, "\a3\air_f\Heli_Light_02\Data\heli_light_02_ext_civilian_co.paa"]; 
+
+Civilian Mohawk (Dahoman)
+this setObjectTextureGlobal [0,"a3\air_f_beta\Heli_Transport_02\Data\Skins\heli_transport_02_1_dahoman_co.paa"]; 
+this setObjectTextureGlobal [1,"a3\air_f_beta\Heli_Transport_02\Data\Skins\heli_transport_02_2_dahoman_co.paa"]; 
+this setObjectTextureGlobal [2,"a3\air_f_beta\Heli_Transport_02\Data\Skins\heli_transport_02_3_dahoman_co.paa"]; 
+
+Civilian Mohawk (Ion)
+this setObjectTextureGlobal [0,"a3\air_f_beta\Heli_Transport_02\Data\Skins\heli_transport_02_1_ion_co.paa"]; 
+this setObjectTextureGlobal [1,"a3\air_f_beta\Heli_Transport_02\Data\Skins\heli_transport_02_2_ion_co.paa"]; 
+this setObjectTextureGlobal [2,"a3\air_f_beta\Heli_Transport_02\Data\Skins\heli_transport_02_3_ion_co.paa"]; 
+ 
+
+Apparel missing from Virtual Arsenal
+
+
+Nikos Clothes
+this forceAddUniform "U_NikosBody"; 
+
+Nikos Clothes (Formal)
+this forceAddUniform "U_NikosAgedBody"; 
+
+Untextured Variant of the Light Combat Helmet
+this addHeadgear "H_BandMask_demon"; 
+
+Bucket Hat
+this addHeadgear "H_TurbanO_blk"; 
+
+Shemag (glitched texture)
+this addHeadgear "H_Shemag_tan"; 
+
+Bandana Cap
+this addHeadgear "H_BandMask_blk"; 
+
+Military Cap (Tan)
+this addHeadgear "H_MilCap_OUcamo"; 
+
+Beanie (Blue)
+this addHeadgear "H_Watchcap_sgg"; 
+ 

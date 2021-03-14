@@ -1,0 +1,1 @@
+_veh = "vehicle_classname" createVehicle getMarkerPos "marker_name";

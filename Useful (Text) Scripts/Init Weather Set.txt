@@ -1,0 +1,6 @@
+//NUMBERS are percentage amounts (100% = 1, 10% = 0.1, 1% = 0.01)
+
+0 setOvercast X;			
+0 setFog [X, X, XX];		//Last Number Is Height
+0 setRain X;     			//Must Have Rain Set To Manual Override
+0 setLightnings X; 			//Must Have Lighting Set To Manual Override

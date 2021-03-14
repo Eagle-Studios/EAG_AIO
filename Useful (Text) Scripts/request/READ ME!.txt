@@ -1,0 +1,33 @@
+
+//Vehicle Request Description
+
+This Vehicle Request script allows editors to set predefined vehicles to be spawned at a marker location. 
+This is useful for reducing FPS when many vehicle types may not be needed at all times ingame. 
+This allows players to request vehicles without Zeus interaction. 
+
+This script primarily uses 3CB (British Army) Vehicles, however RHS was used in the creation of this script. 
+
+//This File
+
+This READ ME! file is located inside the Main Directory. 
+
+Inside the INFO folder 3 SQF files are present (Though these are not SQF files to be used in-game)
+
+There is a 3rd Party addon for Notepad++ that adds SQF's and makes them Arma friendly; (https://www.armaholic.com/page.php?id=8680)
+these files are formatted as SQF's for this ease of access. 
+
+//veh_req #Laptop Init AddAction Full#
+This is the full Init text that goes into the Init on the object you are having players interact with. 
+Personally I use a Rugged Laptop with a custom texture on the screen. 
+Simply copy and paste this text into the Init box of your chosen object.
+
+//veh_req #AddAction with Classnames#
+This is a full directory of all the "this addAction" init text. 
+It includes the classnames for easy reference. 
+
+//veh_req #_veh = classname - create @ marker#
+
+This is a full directory of all vehicle classnames being called for when the individual files are requested via the Laptop. 
+You can find all the individual request files in the Main Directory (Example: veh_req_quad (This spawns vanilla Quad Bike)
+It includes the classnames for easy reference. 
+

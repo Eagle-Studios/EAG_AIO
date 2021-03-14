@@ -1,0 +1,1 @@
+_veh = "UK3CB_BAF_LandRover_Amb_Sand_A" createVehicle getMarkerPos "veh_req_marker";
